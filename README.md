@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shadowscar00
-- 🌱 I’m a C# and Elixir engineer
+- 🌱 I’m an Elixir and C# engineer with experience across the SDLC! 
 
 <!---
 shadowscar00/shadowscar00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
