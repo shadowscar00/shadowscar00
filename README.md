@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shadowscar00
+- 👋 Hi, I’m Patricia! :)
 - 🌱 I’m an Elixir and C# engineer with experience across the SDLC! 
 
 <!---
